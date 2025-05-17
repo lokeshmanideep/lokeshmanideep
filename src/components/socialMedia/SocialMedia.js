@@ -1,7 +1,7 @@
 import React from "react";
-import "./SocialMedia.css";
-import { socialMediaLinks } from "../../portfolio";
 import styled from "styled-components";
+import { socialMediaLinks } from "../../portfolio";
+import "./SocialMedia.css";
 
 const IconWrapper = styled.span`
   i {

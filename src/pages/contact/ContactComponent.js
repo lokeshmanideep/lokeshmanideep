@@ -1,14 +1,14 @@
 import React, { Component } from "react";
-import Header from "../../components/header/Header";
-import Footer from "../../components/footer/Footer";
-import TopButton from "../../components/topButton/TopButton";
-import SocialMedia from "../../components/socialMedia/SocialMedia";
-import Button from "../../components/button/Button";
-import BlogsImg from "./BlogsImg";
-import AddressImg from "./AddressImg";
 import { Fade } from "react-reveal";
+import Button from "../../components/button/Button";
+import Footer from "../../components/footer/Footer";
+import Header from "../../components/header/Header";
+import SocialMedia from "../../components/socialMedia/SocialMedia";
+import TopButton from "../../components/topButton/TopButton";
+import { contactPageData, greeting } from "../../portfolio.js";
+import AddressImg from "./AddressImg";
+import BlogsImg from "./BlogsImg";
 import "./ContactComponent.css";
-import { greeting, contactPageData } from "../../portfolio.js";
 
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
@@ -28,6 +28,8 @@ class Contact extends Component {
                 <img
                   src={require(`../../assets/images/${ContactData["profile_image_path"]}`)}
                   alt=""
+                  width="400"
+                  height="200"
                 />
               </div>
               <div className="contact-heading-text-div">
