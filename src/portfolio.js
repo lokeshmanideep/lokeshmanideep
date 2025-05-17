@@ -401,7 +401,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile_pic.jpeg",
+    profile_image_path: "profile_pic.png",
     description:
       "You can contact me through LinkedIn or Email, I will reply within 24 hours. I can help you with React, Spring, Cloud and iOS App Development.",
   },
