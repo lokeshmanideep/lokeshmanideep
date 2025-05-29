@@ -1,20 +1,56 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "P_001",
+      "name": "UIC Events",
+      "createdAt": "2024-03-01T00:00:00Z",
+      "url": "https://github.com/lokeshmanideepb/UniFied",
+      "description": "A web app that consolidates UIC event data from multiple sources with calendar syncing, built using React, FastAPI, and MongoDB.",
       "isFork": false,
       "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
         {
           "name": "Python",
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "P_002",
+      "name": "hi Feelings - iOS App",
+      "createdAt": "2024-01-15T00:00:00Z",
+      "url": "https://github.com/humaneApp/Demo_1",
+      "description": "An emotional well-being journaling app built with Swift and UIKit, featuring scheduled letters.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Swift",
+          "iconifyClass": "logos-swift"
+        },
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "P_003",
+      "name": "GoFundMe Campaign Analysis",
+      "createdAt": "2024-05-01T00:00:00Z",
+      "url": "https://github.com/lokeshmanideep/gofundme-analysis",
+      "description": "Analyzed 44K cancer crowdfunding campaigns using Python to identify key features and emotional cues for predicting success.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
           "name": "Jupyter Notebook",
@@ -23,100 +59,52 @@
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "P_004",
+      "name": "LLAMA & Mistral Fine-Tuning",
+      "createdAt": "2024-04-10T00:00:00Z",
+      "url": "https://github.com/lokeshmanideep/llm-finetune-reddit-mental-health",
+      "description": "Fine-tuned LLaMA and Mistral models on 54K Reddit posts to improve classification of mental health conditions using supervised learning.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "logos-pytorch"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "P_005",
+      "name": "Chicago Bird Diversity",
+      "createdAt": "2024-04-15T00:00:00Z",
+      "url": "https://github.com/lokeshmanideepb/ChicagoBirdDiversity",
+      "description": "A data science project analyzing bird diversity across Chicago neighborhoods using eBird data and Shannon Index, with predictive modeling of future diversity trends.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "P_006",
+      "name": "Lord Krishna Voice Clips from Mahabharat",
+      "createdAt": "2025-05-01T00:00:00Z",
+      "url": "https://www.youtube.com/@KrishnasVoice-m4v",
+      "description": "The project automates the extraction and preparation of Lord Krishna's voice clips from the Mahabharat serial. The system uses the Telegram API for video acquisition, moviepy (Python) for segmenting, and Google's Translate and Transcription APIs to create relevant titles and descriptions for each clip",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     }
