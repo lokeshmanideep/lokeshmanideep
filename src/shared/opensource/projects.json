@@ -4,7 +4,7 @@
       "id": "P_001",
       "name": "UIC Events",
       "createdAt": "2024-03-01T00:00:00Z",
-      "url": "https://github.com/lokeshmanideepb/UniFied",
+      "url": "projects/uic-events",
       "description": "A web app that consolidates UIC event data from multiple sources with calendar syncing, built using React, FastAPI, and MongoDB.",
       "isFork": false,
       "languages": [

@@ -8,6 +8,7 @@ import Home from "../pages/home/HomeComponent";
 import Projects from "../pages/projects/Projects";
 import Splash from "../pages/splash/Splash";
 import { settings } from "../portfolio.js";
+import ProjectDetails from "../pages/projects/ProjectDetails";
 
 export default class Main extends Component {
   render() {
@@ -57,6 +58,12 @@ export default class Main extends Component {
           <Route
             path="/projects"
             render={(props) => <Projects {...props} theme={this.props.theme} />}
+          />
+          <Route
+            path="/projects/:id"
+            render={(props) => (
+              <ProjectDetails {...props} theme={this.props.theme} />
+            )}
           />
           <Route
             path="*"
