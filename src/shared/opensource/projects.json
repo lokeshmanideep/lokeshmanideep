@@ -98,7 +98,7 @@
       "id": "P_006",
       "name": "Lord Krishna Voice Clips from Mahabharat",
       "createdAt": "2025-05-01T00:00:00Z",
-      "url": "https://www.youtube.com/@KrishnasVoice-m4v",
+      "url": "https://medium.com/@lokeshmanideep14/how-i-used-python-to-grant-my-moms-simple-wish-16440b939c96",
       "description": "The project automates the extraction and preparation of Lord Krishna's voice clips from the Mahabharat serial. The system uses the Telegram API for video acquisition, moviepy (Python) for segmenting, and Google's Translate and Transcription APIs to create relevant titles and descriptions for each clip",
       "isFork": false,
       "languages": [

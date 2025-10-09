@@ -29,7 +29,7 @@ const greeting = {
     //Change this later
     "https://drive.google.com/file/d/1LzjRTzI3fgaxH8pk-VgyKZyIs978QMca/view?usp=drive_link",
   portfolio_repository: "https://github.com/lokeshmanideep/masterPortfolio",
-  githubProfile: "https://github.com/lokeshmanideep",
+  githubProfile: "https://github.com/lokeshmanideepb",
 };
 
 const socialMediaLinks = [
