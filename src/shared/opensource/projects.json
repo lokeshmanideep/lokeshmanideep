@@ -4,7 +4,7 @@
       "id": "P_001",
       "name": "UIC Events",
       "createdAt": "2024-03-01T00:00:00Z",
-      "url": "projects/uic-events",
+      "url": "https://github.com/lokeshmanideepb/UniFied",
       "description": "A web app that consolidates UIC event data from multiple sources with calendar syncing, built using React, FastAPI, and MongoDB.",
       "isFork": false,
       "languages": [
@@ -44,7 +44,7 @@
       "id": "P_003",
       "name": "GoFundMe Campaign Analysis",
       "createdAt": "2024-05-01T00:00:00Z",
-      "url": "https://github.com/lokeshmanideep/gofundme-analysis",
+      "url": "https://lokeshmanideep.notion.site/Cracking-the-Code-How-I-Used-AI-to-Predict-Success-in-Cancer-Crowdfunding-2b2830285fa180a087b7c99d67b74a05",
       "description": "Analyzed 44K cancer crowdfunding campaigns using Python to identify key features and emotional cues for predicting success.",
       "isFork": false,
       "languages": [
@@ -62,7 +62,7 @@
       "id": "P_004",
       "name": "LLAMA & Mistral Fine-Tuning",
       "createdAt": "2024-04-10T00:00:00Z",
-      "url": "https://github.com/lokeshmanideep/llm-finetune-reddit-mental-health",
+      "url": "https://github.com/lokeshmanideepb/ClinicalCoding",
       "description": "Fine-tuned LLaMA and Mistral models on 54K Reddit posts to improve classification of mental health conditions using supervised learning.",
       "isFork": false,
       "languages": [
